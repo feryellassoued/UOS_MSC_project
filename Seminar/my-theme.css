@@ -1,0 +1,193 @@
+.large { font-size: 130% }
+.meduim { font-size: 80% }
+.small { font-size: 60% }
+.verysmall { font-size: 40% }
+.tiny { font-size: 20% }
+
+.my-one-page-font {
+  font-size: 16px;
+}
+
+
+.more_to_the-left{
+  float: left;
+  width: 60%;
+}
+.more_to_the-right{
+  float: right;
+  width: 40%;
+}
+
+
+.adjust_pull-left {
+  float: left;
+  width: 33%;
+}
+.adjust_pull-right {
+  float: right;
+  width: 67%;
+}
+
+
+
+.equal-left {
+  float: left;
+  width: 50%;
+}
+.equal-right {
+  float: right;
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+.tiny_adjust_pull-left {
+  float: left;
+  width: 40%;
+}
+.tiny_adjust_pull-right {
+  float: right;
+  width: 60%;
+}
+
+
+
+.tiny_adjust_for_table_pull-left {
+  float: left;
+  width: 45%;
+}
+.tiny_adjust_for_table_pull-right {
+  float: right;
+  width: 55%;
+}
+
+
+
+
+
+.tiny_tiny_adjust_pull-right {
+  float: right;
+  width: 55%;
+}
+
+.tiny_tiny_adjust_pull-left {
+  float: left;
+  width: 45%;
+}
+
+.double_adjust_pull-left {
+  float: left;
+  width: 45%;
+}
+.double_adjust_pull-right {
+  float: right;
+  width: 55%;
+}
+
+
+
+
+
+.adjust_graph_pull-left {
+  float: left;
+  width: 30%;
+}
+.adjust_graph_pull-right {
+  float: right;
+  width: 70%;
+}
+ 
+ 
+ 
+.adjust_reverse_graph_pull-left{
+  float: left;
+  width: 70%;
+}
+.adjust_reverse_graph_pull-right{
+  float: right;
+  width: 30%;
+}
+  
+ 
+ 
+ 
+
+.more_pull-left {
+  float: left;
+  width: 55%;
+}
+.less_pull-right {
+  float: right;
+  width: 45%;
+}
+
+
+
+
+
+
+.remark-slide-content {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.remark-slide-content > h1:first-of-type {
+   padding-left: 14px;
+  padding-right: 14px;
+}
+
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 1.5em;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 0;
+  padding-right: 8em; /* to avoid the page numbering */ 
+}
+/* footnote identifier use: .fn[1] */
+.fn {
+  vertical-align: super;
+  font-size: 60%;
+}
+.footnote {
+  font-size: 0.7em;
+}
+.remark-slide-content .footnote  p, 
+.remark-slide-content .footnote li {
+  font-size: 0.7em!important;
+}
+.footnote .remark-code, 
+.footnote .remark-inline-code{ font-size: 0.8em!important; }
+
+
+
+
+div.footer {
+    background-color: #5c6266;
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    height: 25px;
+    width: 20%;
+}
+
+
+div.footer span {
+    font-size: 13pt; /*  */ 
+    color: #f6f3f2;
+    position: absolute;
+    left: 15px;
+    bottom: 1px;
+}
